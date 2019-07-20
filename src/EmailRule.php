@@ -54,6 +54,10 @@ class EmailRule
             return false;
         }
 
+        if ($mailgun->reason != '') {
+            return false;
+        }
+
         return true;
     }
 
