@@ -1,5 +1,5 @@
 {
-    "name": "kouz/laravel-mailgun-email-validation",
+    "name": "arturbruno/laravel-mailgun-email-validation",
     "description": "Laravel email validation that uses the Mailgun API for a three-step validation check.",
     "keywords": ["mailgun", "laravel", "email", "validation"],
     "type": "laravel-package",
